@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 35px;
+}
+.header-name{
+    vertical-align: middle;
+    font-weight: 100;
+    font-size: 26px;
+    letter-spacing: .02em;
+    font-style: normal;
+    font-family: "halyard-display", sans-serif;
+}
+.header-logo{
+    width: 17px;
+    height: 17px
+}
+.icon-wrapper{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.mail-logo{
+    margin-top: 6px;
+}

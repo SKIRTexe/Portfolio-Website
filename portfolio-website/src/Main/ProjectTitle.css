@@ -1,0 +1,11 @@
+.title{
+    display: flex;
+    justify-content: center;
+    padding: 50px 35px;
+}
+.header-title{
+    vertical-align: middle;
+    font-weight: 100;
+    font-size: 52px;
+    letter-spacing: .02em;
+}

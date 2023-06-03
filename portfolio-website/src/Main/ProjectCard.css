@@ -1,0 +1,11 @@
+.project-image {
+    width:400px;
+    padding: 0px 300px;
+    padding-top: 20px;
+}
+.project-description{
+    font-weight: 0;
+    font-size: 20px;
+    padding: 0px 300px;
+    letter-spacing: .02em;
+}
